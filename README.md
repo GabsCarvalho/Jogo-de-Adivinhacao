@@ -26,8 +26,3 @@ Este é um jogo de adivinhação em Python, onde o jogador tenta adivinhar um n�
    - Continuar no mesmo nível.
    - Aumentar ou diminuir a dificuldade.
    - Sair do jogo.
-
----
-
-## Requisitos
-- Bibliotecas padrões: `time` e `random`
